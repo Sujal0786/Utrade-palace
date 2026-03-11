@@ -1,0 +1,10 @@
+{
+  "fixed_window": {
+    "max_requests": 10,
+    "window_seconds": 60
+  },
+  "token_bucket": {
+    "bucket_size": 10,
+    "refill_rate": 1
+  }
+}
